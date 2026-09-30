@@ -1,0 +1,16 @@
+streamlit>=1.30,<2.0
+geopandas>=0.14
+folium
+streamlit-folium
+plotly
+pandas>=2.0
+numpy
+scipy
+shapely
+pulp
+scikit-learn
+matplotlib
+seaborn
+osmnx>=1.9
+networkx
+pyproj
